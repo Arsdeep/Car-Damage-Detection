@@ -1,0 +1,16 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+torch
+torchvision
+tqdm
+seaborn
+pandas
+psutil  # system utilization
+thop
+streamlit
+keras
+tensorflow
